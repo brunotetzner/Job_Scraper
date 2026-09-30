@@ -1,16 +1,6 @@
-# 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-29 20:51 UTC*
+# 🏛 NEOGOV — State & Local Government Back-end Developer Roles
+*Last updated: 2026-09-30 14:48 UTC*
 
-**3 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
-### [Environmental Specialist (Quality Assurance/Sampling)](https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling) — Orange County Sanitation District
-- 📍 **Location:** CA 92708, CA
-- 💰 **Salary:** $110,718.40 - $134,617.60 Annually
-
-### [Watershed Protection Specialist I](https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i) — City of Oceanside
-- 📍 **Location:** Oceanside, CA
-- 💰 **Salary:** $71,820.00 - $96,288.00 Annually
-
-### [Environmental Compliance Specialist](https://www.governmentjobs.com/jobs/5497492-0/environmental-compliance-specialist) — State of Iowa
-- 📍 **Location:** Manchester - 52057 - Delaware County, IA
-- 💰 **Salary:** $54,350.40 - $81,972.80 Annually
+No new state/local-gov roles since the last run.
