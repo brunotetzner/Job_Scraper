@@ -1,0 +1,348 @@
+{
+  "profile": {
+    "title": "Back-end Developer Job Tracker",
+    "subtitle": "Brasil · São Paulo · Campinas · Remoto",
+    "emoji": "⚙️"
+  },
+  "keywords": {
+    "include": [
+      "desenvolvedor back-end",
+      "desenvolvedor backend",
+      "desenvolvedor back end",
+      "desenvolvedora back-end",
+      "desenvolvedora backend",
+      "pessoa desenvolvedora back-end",
+      "pessoa desenvolvedora backend",
+      "desenvolvedor node",
+      "desenvolvedor nodejs",
+      "desenvolvedor node.js",
+      "desenvolvedor nestjs",
+      "desenvolvedor typescript",
+      "desenvolvedor full stack",
+      "desenvolvedor full-stack",
+      "desenvolvedor fullstack",
+      "desenvolvedor de software",
+      "engenheiro de software",
+      "engenheira de software",
+      "engenheiro back-end",
+      "engenheiro backend",
+      "desenvolvedor de integrações",
+      "desenvolvedor de apis",
+      "backend developer",
+      "back-end developer",
+      "back end developer",
+      "backend engineer",
+      "back-end engineer",
+      "back end engineer",
+      "node developer",
+      "node.js developer",
+      "nodejs developer",
+      "node.js engineer",
+      "nodejs engineer",
+      "nestjs developer",
+      "nestjs engineer",
+      "typescript developer",
+      "typescript engineer",
+      "full stack developer",
+      "full-stack developer",
+      "fullstack developer",
+      "full stack engineer",
+      "full-stack engineer",
+      "software engineer",
+      "software developer",
+      "api developer",
+      "api engineer",
+      "integration developer",
+      "integration engineer",
+      "microservices developer",
+      "microservices engineer",
+      "platform engineer",
+      "payments engineer",
+      "payments developer",
+      "fintech developer",
+      "fintech engineer",
+      "server-side engineer"
+    ],
+    "exclude": [
+      "intern",
+      "internship",
+      "co-op",
+      "trainee",
+      "estágio",
+      "estagio",
+      "estagiário",
+      "estagiária",
+      "estagiario",
+      "estagiaria",
+      "jovem aprendiz",
+      "aprendiz",
+      "front-end",
+      "frontend",
+      "front end",
+      "mobile",
+      "android",
+      "ios developer",
+      "flutter",
+      "react native",
+      "data scientist",
+      "cientista de dados",
+      "data analyst",
+      "analista de dados",
+      "machine learning",
+      "qa engineer",
+      "quality assurance",
+      "tester",
+      "analista de testes",
+      "analista de suporte",
+      "suporte técnico",
+      "salesforce",
+      "sap ",
+      "abap",
+      ".net",
+      "c#",
+      "golang developer",
+      "ruby",
+      "manager",
+      "gerente",
+      "coordenador",
+      "diretor",
+      "director",
+      "principal engineer",
+      "staff engineer",
+      "embedded",
+      "game developer",
+      "wordpress"
+    ]
+  },
+  "search_terms": {
+    "linkedin": [
+      "desenvolvedor back-end node.js",
+      "desenvolvedor backend nestjs",
+      "desenvolvedor node.js pleno",
+      "desenvolvedor node.js sênior",
+      "desenvolvedor typescript back-end",
+      "desenvolvedor back-end remoto",
+      "desenvolvedor full stack node.js",
+      "engenheiro de software back-end",
+      "engenheiro de software node.js",
+      "desenvolvedor microsserviços",
+      "desenvolvedor fintech back-end",
+      "desenvolvedor pix pagamentos",
+      "backend developer node.js",
+      "backend engineer nestjs",
+      "node.js developer remote",
+      "typescript backend engineer",
+      "software engineer node.js",
+      "full stack developer node react",
+      "payments backend engineer",
+      "fintech backend developer",
+      "microservices developer node.js",
+      "api developer node.js",
+      "backend developer AWS",
+      "software engineer Brazil remote"
+    ],
+    "indeed": [
+      "desenvolvedor back-end",
+      "desenvolvedor node.js",
+      "desenvolvedor nestjs",
+      "desenvolvedor typescript",
+      "engenheiro de software",
+      "desenvolvedor full stack",
+      "backend developer",
+      "node.js developer"
+    ],
+    "glassdoor": [
+      "desenvolvedor back-end",
+      "desenvolvedor node.js",
+      "desenvolvedor nestjs",
+      "engenheiro de software",
+      "desenvolvedor full stack",
+      "backend developer",
+      "node.js developer",
+      "software engineer"
+    ],
+    "ziprecruiter": [
+      "backend developer",
+      "node.js developer",
+      "nestjs developer",
+      "typescript engineer",
+      "software engineer node.js",
+      "backend engineer",
+      "full stack developer node",
+      "payments engineer"
+    ],
+    "google_jobs": [
+      "desenvolvedor back-end node.js",
+      "desenvolvedor nestjs",
+      "desenvolvedor typescript",
+      "engenheiro de software back-end",
+      "desenvolvedor full stack",
+      "backend developer node.js",
+      "node.js developer",
+      "software engineer backend"
+    ],
+    "hiring_cafe": [
+      "backend developer",
+      "node.js developer",
+      "nestjs developer",
+      "typescript backend engineer",
+      "software engineer node.js",
+      "full stack developer node",
+      "payments engineer",
+      "fintech backend engineer"
+    ]
+  },
+  "locations": {
+    "linkedin": [
+      {
+        "name": "Brasil",
+        "location": "Brazil",
+        "geoId": ""
+      },
+      {
+        "name": "São Paulo",
+        "location": "São Paulo, São Paulo, Brazil",
+        "geoId": ""
+      },
+      {
+        "name": "Campinas",
+        "location": "Campinas, São Paulo, Brazil",
+        "geoId": ""
+      },
+      {
+        "name": "Belo Horizonte",
+        "location": "Belo Horizonte, Minas Gerais, Brazil",
+        "geoId": ""
+      }
+    ],
+    "indeed": [
+      {
+        "location": "Brasil",
+        "country": "Brazil"
+      },
+      {
+        "location": "São Paulo, SP",
+        "country": "Brazil"
+      },
+      {
+        "location": "Campinas, SP",
+        "country": "Brazil"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "Brasil",
+        "country": "Brazil"
+      },
+      {
+        "location": "São Paulo, SP",
+        "country": "Brazil"
+      },
+      {
+        "location": "Campinas, SP",
+        "country": "Brazil"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "Remote",
+        "country": "USA"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "Brasil",
+        "country": "Brazil"
+      },
+      {
+        "location": "São Paulo, SP",
+        "country": "Brazil"
+      },
+      {
+        "location": "Campinas, SP",
+        "country": "Brazil"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "United States"
+      }
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+  "employers": {
+    "priority": [],
+    "exclude": []
+  },
+  "priority_topics": {
+    "terms": [
+      [
+        "Node.js / NestJS",
+        "node\\.?js|nodejs|nestjs|nest\\.js|\\bnode\\b"
+      ],
+      [
+        "Fintech / Payments",
+        "fintech|payments?|pagamentos?|\\bpix\\b|banking|banc[aá]rio|financ"
+      ],
+      [
+        "Microservices",
+        "microservi[cç]os?|microservices?|event[- ]driven"
+      ],
+      [
+        "AWS / Serverless",
+        "\\baws\\b|serverless|lambda|cloud"
+      ],
+      [
+        "TypeScript",
+        "typescript"
+      ]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      [
+        "Node.js / NestJS",
+        "node\\.?js|nodejs|nestjs|nest\\.js|\\bnode\\b"
+      ],
+      [
+        "Fintech / Payments",
+        "fintech|payments?|pagamentos?|\\bpix\\b|banking"
+      ],
+      [
+        "Back-end",
+        "back[- ]?end|server[- ]side"
+      ],
+      [
+        "Full-Stack",
+        "full[- ]?stack"
+      ],
+      [
+        "API / Integrations",
+        "\\bapis?\\b|integra"
+      ],
+      [
+        "Platform / Cloud",
+        "platform|plataforma|cloud|devops|\\bsre\\b"
+      ],
+      [
+        "Software Engineer",
+        "software engineer|engenheir[oa] de software"
+      ],
+      [
+        "Developer (General)",
+        "desenvolvedor|desenvolvedora|developer|programador|typescript"
+      ]
+    ]
+  },
+  "notify": {
+    "min_fit": 75
+  }
+}
