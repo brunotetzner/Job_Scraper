@@ -69,6 +69,7 @@ def _deep_merge(base: dict, override: dict) -> dict:
             merged[key] = _deep_merge(merged[key], value)
         else:
             merged[key] = value
+    print('merged', merged)
     return merged
 
 
@@ -304,6 +305,23 @@ _NON_US_COUNTRY_RE = re.compile(
     r'\b(?:' + '|'.join(re.escape(c) for c in NON_US_COUNTRIES_SINGLE) + r')\b'
 )
 
+# Latin American countries where remote roles are also in scope (e.g.
+# "Remote, Brazil" or "Remote, Mexico"). Checked before the non-US rejection
+# below, but only when a target term (e.g. "remote") is present — so
+# "São Paulo, Brazil" (not remote) is still rejected. Same multi/single-word
+# split as NON_US_COUNTRIES_* for consistent matching.
+LATAM_COUNTRIES_MULTI = [
+    "costa rica", "el salvador", "dominican republic", "puerto rico",
+]
+LATAM_COUNTRIES_SINGLE = [
+    "brazil", "mexico", "argentina", "colombia", "chile", "peru",
+    "ecuador", "venezuela", "uruguay", "paraguay", "bolivia",
+    "panama", "guatemala", "honduras", "nicaragua", "cuba",
+]
+_LATAM_COUNTRY_RE = re.compile(
+    r'\b(?:' + '|'.join(re.escape(c) for c in LATAM_COUNTRIES_SINGLE) + r')\b'
+)
+
 
 # US state full names (lowercased) — used to override country-match false
 # positives like "New Mexico" (contains "mexico") and "Indiana" (contains
@@ -331,6 +349,15 @@ def is_target_location(location: str) -> bool:
     # which would otherwise be rejected by the country check below.
     if any(state in loc for state in _US_STATE_NAMES):
         return True
+    # Remote roles in Latin America are in scope (e.g. "Remote, Brazil",
+    # "Remote, Mexico City") — accept before the non-US rejection, but only
+    # when a target term like "remote" is actually present, so non-remote
+    # LATAM postings (e.g. "São Paulo, Brazil") are still rejected.
+    if any(place in loc for place in TARGET_LOCATIONS):
+        if any(country in loc for country in LATAM_COUNTRIES_MULTI):
+            return True
+        if _LATAM_COUNTRY_RE.search(loc):
+            return True
     # Reject non-US countries — prevents ", ca" matching "Canada", etc.
     # Multi-word countries: substring match (safe, distinctive phrases).
     if any(country in loc for country in NON_US_COUNTRIES_MULTI):
@@ -682,6 +709,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
                     f"&f_TPR=r{lookback_seconds}"
                     f"&start={start}"
                 )
+                print('URL', url)
                 html = fetch(url)
                 if not html.strip():
                     # Could be rate-limited (429 exhausted retries) or genuinely
@@ -714,9 +742,12 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
                 if not raw_count:
                     break
                 for p in parsed:
+                    print('position', p)
                     if p["id"] in jobs_by_id:
+                        print('IGNORED')
                         continue
                     if not role_is_relevant(p["title"], p["company"]):
+                        print('NOT RELEVANT')
                         continue
                     jobs_by_id[p["id"]] = {
                         "company": p["company"],

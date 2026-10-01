@@ -1,7 +1,7 @@
 {
   "profile": {
     "title": "Back-end Developer Job Tracker",
-    "subtitle": "Brasil · São Paulo · Campinas · Remoto",
+    "subtitle": "Remoto",
     "emoji": "⚙️"
   },
   "keywords": {
@@ -13,6 +13,9 @@
       "desenvolvedora backend",
       "pessoa desenvolvedora back-end",
       "pessoa desenvolvedora backend",
+      "pessoa desenvolvedora Fullstack",
+      "pessoa desenvolvedora Full Stack",
+      "pessoa desenvolvedora Full-stack",
       "desenvolvedor node",
       "desenvolvedor nodejs",
       "desenvolvedor node.js",
@@ -76,9 +79,6 @@
       "estagiaria",
       "jovem aprendiz",
       "aprendiz",
-      "front-end",
-      "frontend",
-      "front end",
       "mobile",
       "android",
       "ios developer",
@@ -195,52 +195,145 @@
   "locations": {
     "linkedin": [
       {
-        "name": "Brasil",
-        "location": "Brazil",
-        "geoId": ""
-      },
-      {
-        "name": "São Paulo",
-        "location": "São Paulo, São Paulo, Brazil",
-        "geoId": ""
-      },
-      {
-        "name": "Campinas",
-        "location": "Campinas, São Paulo, Brazil",
-        "geoId": ""
-      },
-      {
-        "name": "Belo Horizonte",
-        "location": "Belo Horizonte, Minas Gerais, Brazil",
+        "name": "Remoto",
+        "location": "Remote",
         "geoId": ""
       }
     ],
     "indeed": [
       {
-        "location": "Brasil",
+        "location": "Remote",
         "country": "Brazil"
       },
       {
-        "location": "São Paulo, SP",
-        "country": "Brazil"
+        "location": "Remote",
+        "country": "Mexico"
       },
       {
-        "location": "Campinas, SP",
-        "country": "Brazil"
+        "location": "Remote",
+        "country": "Argentina"
+      },
+      {
+        "location": "Remote",
+        "country": "Colombia"
+      },
+      {
+        "location": "Remote",
+        "country": "Chile"
+      },
+      {
+        "location": "Remote",
+        "country": "Peru"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "United Kingdom"
+      },
+      {
+        "location": "Remote",
+        "country": "Germany"
+      },
+      {
+        "location": "Remote",
+        "country": "France"
+      },
+      {
+        "location": "Remote",
+        "country": "Spain"
+      },
+      {
+        "location": "Remote",
+        "country": "Italy"
+      },
+      {
+        "location": "Remote",
+        "country": "Netherlands"
+      },
+      {
+        "location": "Remote",
+        "country": "Sweden"
+      },
+      {
+        "location": "Remote",
+        "country": "Norway"
+      },
+      {
+        "location": "Remote",
+        "country": "Portugal"
       }
     ],
     "glassdoor": [
       {
-        "location": "Brasil",
-        "country": "Brazil"
+        "location": "Remote",
+        "country": "Mexico"
       },
       {
-        "location": "São Paulo, SP",
-        "country": "Brazil"
+        "location": "Remote",
+        "country": "Argentina"
       },
       {
-        "location": "Campinas, SP",
-        "country": "Brazil"
+        "location": "Remote",
+        "country": "Colombia"
+      },
+      {
+        "location": "Remote",
+        "country": "Chile"
+      },
+      {
+        "location": "Remote",
+        "country": "Peru"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "United Kingdom"
+      },
+      {
+        "location": "Remote",
+        "country": "Germany"
+      },
+      {
+        "location": "Remote",
+        "country": "France"
+      },
+      {
+        "location": "Remote",
+        "country": "Spain"
+      },
+      {
+        "location": "Remote",
+        "country": "Italy"
+      },
+      {
+        "location": "Remote",
+        "country": "Netherlands"
+      },
+      {
+        "location": "Remote",
+        "country": "Sweden"
+      },
+      {
+        "location": "Remote",
+        "country": "Norway"
+      },
+      {
+        "location": "Remote",
+        "country": "Portugal"
       }
     ],
     "ziprecruiter": [
@@ -251,26 +344,48 @@
     ],
     "google_jobs": [
       {
-        "location": "Brasil",
+        "location": "Remote",
         "country": "Brazil"
       },
       {
-        "location": "São Paulo, SP",
-        "country": "Brazil"
+        "location": "Remote",
+        "country": "Mexico"
       },
       {
-        "location": "Campinas, SP",
-        "country": "Brazil"
+        "location": "Remote",
+        "country": "Argentina"
+      },
+      {
+        "location": "Remote",
+        "country": "Colombia"
+      },
+      {
+        "location": "Remote",
+        "country": "Chile"
+      },
+      {
+        "location": "Remote",
+        "country": "Peru"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
       }
     ],
     "hiring_cafe": [
       {
-        "location": "United States"
+        "location": "Remote"
       }
     ]
   },
+  "location_filter": {
+    "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards that don't support geo-scoping at the API level: the curated direct-ATS sweep, and NEOGOV/GovernmentJobs.com (a nationwide board). Keep this in sync with your locations.* entries above.",
+    "terms": [
+      "remote"
+    ]
+  },
   "google_jobs": {
-    "queries": [],
+    "queries": [ ],
     "serpapi_api_key": "",
     "oxylabs_username": "",
     "oxylabs_password": ""
@@ -279,8 +394,8 @@
     "max_pages": 3
   },
   "employers": {
-    "priority": [],
-    "exclude": []
+    "priority": [ ],
+    "exclude": [ "Queima diária", "MB labs" ]
   },
   "priority_topics": {
     "terms": [
