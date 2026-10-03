@@ -1,79 +1,82 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-02 20:15 UTC*
+*Last updated: 2026-10-03 00:03 UTC*
 
 **16 new role(s)** since last run · 16 total in last 1h
 
-### [Principal Software Engineer](https://www.linkedin.com/jobs/view/4474796985/) — Tivly
+### [API Developer](https://www.linkedin.com/jobs/view/4475052038/) — Kforce Inc
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $61.00/hr - $74.00/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Character Platform & Tools](https://www.linkedin.com/jobs/view/4475040771/) — Sesame
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Associate - Full-Stack Developer](https://www.linkedin.com/jobs/view/4475060052/) — New York Life
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100,000-$143,000
+- 🕒 **Posted:** 2026-10-02
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4473810300/) — Frontier Energy, Inc.
 - 📍 **Location:** Texas, United States
-- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
+- 💰 **Salary:** $70,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4475026427/) — Numeral
+### [Senior Software Engineer I, Data Content](https://www.linkedin.com/jobs/view/4473804575/) — Tempus AI
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000.00/yr - $230,000.00/yr
+- 💰 **Salary:** $110,000-$160,000
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior/Staff Software Engineer](https://www.linkedin.com/jobs/view/4475028213/) — The Public Interest Company
+### [Intermediate Software Developer](https://www.linkedin.com/jobs/view/4475044576/) — MITRE
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $98,400 - $123,000
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer, C++ | NMS](https://www.linkedin.com/jobs/view/4475043837/) — NinjaOne
+- 📍 **Location:** Tennessee, United States
+- 💰 **Salary:** $150,000 to $220,000 per year
+- 🕒 **Posted:** 2026-10-02
+
+### [Staff Software Engineer/Tech Lead, Patient Experience](https://www.linkedin.com/jobs/view/4473391841/) — Ro
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $223,100 to $311,000,
 - 🕒 **Posted:** 2026-10-02
 
-### [Full Stack Engineer, Integrations](https://www.linkedin.com/jobs/view/4475023267/) — Nametag
+### [Senior Software Engineer, C++ | NMS](https://www.linkedin.com/jobs/view/4475051445/) — NinjaOne
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $150,000 to $220,000 per year
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4473397917/) — NVIDIA
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-10-02
+
+### [VP Software Engineering, Asset Management Solutions](https://www.linkedin.com/jobs/view/4475045435/) — Broadridge
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $275,,000.00- $300,000.00 USD
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer – Sitecore XM Cloud Migration](https://www.linkedin.com/jobs/view/4475011676/) — Aegistech
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $75.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Engineer - JAAR/DCD Program (Engineer Software 4) - 30172](https://www.linkedin.com/jobs/view/4465127098/) — Mission Technologies, a division of HII
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $117,262.00 - $160,000.00
-- 🕒 **Posted:** 2026-10-02
-
-### [Back End Developer / Engineer II- #26-21402](https://www.linkedin.com/jobs/view/4458959752/) — US Tech Solutions
+### [Software Engineer, Full Stack, Level 5](https://www.linkedin.com/jobs/view/4475055457/) — Snap Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $80.00/hr
+- 💰 **Salary:** $209,000-$313,000 annually
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior/Software Engineer II, Backend](https://www.linkedin.com/jobs/view/4475014831/) — Duolingo
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $182,800—$247,300 USD
+### [Senior Software Engineer, C++ | NMS](https://www.linkedin.com/jobs/view/4475039966/) — NinjaOne
+- 📍 **Location:** Oregon, United States
+- 💰 **Salary:** $150,000 to $220,000 per year
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Full Stack Engineer, Basketball](https://www.linkedin.com/jobs/view/4475029255/) — GameChanger
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $155,000.00/yr
+### [Senior Software Engineer, C++ | NMS](https://www.linkedin.com/jobs/view/4475044783/) — NinjaOne
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $150,000 to $220,000 per year
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer C++ | Top Tier Hedge Fund | NYC](https://www.linkedin.com/jobs/view/4456305527/) — Delmar Nord
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $400,000.00/yr - $600,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475020513/) — Mass Recruiters
+### [Senior Software Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4473803726/) — NVIDIA
 - 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4473176556/) — Matter
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4473817093/) — Clear Street
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4473392243/) — Asseta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000–$225,000
-- 🕒 **Posted:** 2026-10-02
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4473396106/) — Asseta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000–$350,000
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Engineer – Leading Global Hedge Fund – Excellent Compensation + Benefits](https://www.linkedin.com/jobs/view/4462536298/) — Mondrian Alpha
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Software Engineer (Institutional, Settlements & Transfers)](https://www.linkedin.com/jobs/view/4475026500/) — Coinbase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $207,955 USD - $218,900 USD
+- 💰 **Salary:** $170,000 - $220,000
 - 🕒 **Posted:** 2026-10-02
