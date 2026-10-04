@@ -1,14 +1,19 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-04 06:59 UTC*
+*Last updated: 2026-10-04 08:50 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Software Developer (AF3B463)](https://www.linkedin.com/jobs/view/4475360870/) — Referment
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4470596864/) — Haystack
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $275,000.00/yr - $275,000.00/yr
+- 💰 **Salary:** $150,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-10-04
 
-### [Data Integration Engineer II (CEMI)- 2 Year Term Appointment](https://www.linkedin.com/jobs/view/4473426060/) — Weill Cornell Medicine
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,300.00 - $143,300.00
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4474202618/) — Haystack
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $105,000 - $290,000
+- 🕒 **Posted:** 2026-10-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474207410/) — Haystack
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $105,000 - $290,000
 - 🕒 **Posted:** 2026-10-04
