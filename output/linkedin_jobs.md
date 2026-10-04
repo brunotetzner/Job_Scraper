@@ -1,9 +1,21 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-03 22:13 UTC*
+*Last updated: 2026-10-04 00:44 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Sr Principal Software Engineer (26-355)](https://www.linkedin.com/jobs/view/4475339961/) — Northrop Grumman
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $129,300.00 - $193,900.00
-- 🕒 **Posted:** 2026-10-03
+### [Full-Stack Software Engineer: Application Engineering (ED0EE55)](https://www.linkedin.com/jobs/view/4475347638/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-04
+
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473888238/) — NVIDIA
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-10-04
+
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473890109/) — NVIDIA
+- 📍 **Location:** Washington, United States
+- 🕒 **Posted:** 2026-10-04
+
+### [Senior System Software Engineer, Agentic Retrieval](https://www.linkedin.com/jobs/view/4473881513/) — NVIDIA
+- 📍 **Location:** Wisconsin, United States
+- 🕒 **Posted:** 2026-10-04
