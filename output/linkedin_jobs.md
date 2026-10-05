@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-05 02:14 UTC*
+*Last updated: 2026-10-05 07:42 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Software Engineer - 175793](https://www.linkedin.com/jobs/view/4474232366/) — Zachary Piper Solutions
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $170,000 - $210,000
+### [Backend Engineer – Search, Ads & Recommendation (Mandarin Required)](https://www.linkedin.com/jobs/view/4475527980/) — Applied Intelligence Consulting (Singapore)
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-10-05
