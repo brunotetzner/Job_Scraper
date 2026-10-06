@@ -1,38 +1,66 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-06 09:30 UTC*
+*Last updated: 2026-10-06 10:32 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**13 new role(s)** since last run · 15 total in last 1h
 
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4438014866/) — Brooksource
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4342702745/) — OCLC
+- 📍 **Location:** Minnesota, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer, Staff](https://www.linkedin.com/jobs/view/4439671168/) — Charta Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $65 - $80 per hour
+- 💰 **Salary:** $210,000 - $270,000 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Staff Software Engineer (Backend) - Everand Core](https://www.linkedin.com/jobs/view/4438938717/) — Scribd, Inc.
+### [Senior Software Engineer - Life Sciences.AI](https://www.linkedin.com/jobs/view/4467212831/) — McKinsey & Company
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer, Senior](https://www.linkedin.com/jobs/view/4439659467/) — Charta Health
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000 - $210,000 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer, Backend (All Teams)](https://www.linkedin.com/jobs/view/4409213815/) — DoorDash
+### [Staff Software Engineer - Frontend (NYC)](https://www.linkedin.com/jobs/view/4355201871/) — Databricks
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,600—$192,000 USD
+- 💰 **Salary:** $190,900—$253,750 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Full Stack Software Engineer – Data & AI Systems](https://www.linkedin.com/jobs/view/4476170124/) — Henderson Scott
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $200,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [AI Native - Full Stack Engineer](https://www.linkedin.com/jobs/view/4467413917/) — Salesforce
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $197,300 - $313,700 annually
-- 🕒 **Posted:** 2026-10-06
-
-### [Founding / Staff Software Engineer](https://www.linkedin.com/jobs/view/4474050269/) — Ensemble Partners
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $350,000.00/yr - $500,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer III (Full Stack Java)](https://www.linkedin.com/jobs/view/4476165280/) — JPMorganChase
+### [Senior Software Engineer, Time](https://www.linkedin.com/jobs/view/4467282420/) — Justworks
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+- 💰 **Salary:** $188,000.00 to $242,000.00 per year
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer, Onboarding](https://www.linkedin.com/jobs/view/4467274610/) — Justworks
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $188,000.00 to $242,000.00 per year
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer - Fixed Income Hedge Fund](https://www.linkedin.com/jobs/view/4474035982/) — Goldman Lloyds
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer, Workforce Payments](https://www.linkedin.com/jobs/view/4467284473/) — Justworks
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $188,000.00 to $242,000.00 per year
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4467294306/) — Justworks
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $131,000- $169,000 per year
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer, International Payroll](https://www.linkedin.com/jobs/view/4467293311/) — Justworks
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $188,000.00 to $242,000.00 per year
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer - AI (Materia AI)](https://www.linkedin.com/jobs/view/4326396170/) — Thomson Reuters
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $127,000 USD - $235,000 USD
+- 🕒 **Posted:** 2026-10-06
+
+### [Staff Software Engineer, Backend (Capacity Modeling)](https://www.linkedin.com/jobs/view/4410883128/) — Affirm
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-10-06
