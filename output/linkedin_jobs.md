@@ -1,66 +1,97 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-06 10:32 UTC*
+*Last updated: 2026-10-06 20:36 UTC*
 
-**13 new role(s)** since last run · 15 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4342702745/) — OCLC
-- 📍 **Location:** Minnesota, United States
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer, Staff](https://www.linkedin.com/jobs/view/4439671168/) — Charta Health
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4474402008/) — WinIt
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $210,000 - $270,000 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer - Life Sciences.AI](https://www.linkedin.com/jobs/view/4467212831/) — McKinsey & Company
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer, Senior](https://www.linkedin.com/jobs/view/4439659467/) — Charta Health
+### [Sr Backend Engineer](https://www.linkedin.com/jobs/view/4475108543/) — Jobs Web3
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000 - $210,000 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Staff Software Engineer - Frontend (NYC)](https://www.linkedin.com/jobs/view/4355201871/) — Databricks
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4476358702/) — Pro Integrate
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,900—$253,750 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, Time](https://www.linkedin.com/jobs/view/4467282420/) — Justworks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $188,000.00 to $242,000.00 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer, Onboarding](https://www.linkedin.com/jobs/view/4467274610/) — Justworks
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $188,000.00 to $242,000.00 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer - Fixed Income Hedge Fund](https://www.linkedin.com/jobs/view/4474035982/) — Goldman Lloyds
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4475118026/) — Fonzi AI
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $225,000.00/yr
+- 💰 **Salary:** $160,000 to $275,000
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, Workforce Payments](https://www.linkedin.com/jobs/view/4467284473/) — Justworks
+### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4476366696/) — Encord
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $188,000.00 to $242,000.00 per year
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467294306/) — Justworks
+### [Full Stack Engineer - Agentic AI Data Migration (Recent Series A, On-site NYC)](https://www.linkedin.com/jobs/view/4475113299/) — Zearch
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4476382050/) — Numeral
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $131,000- $169,000 per year
+- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, International Payroll](https://www.linkedin.com/jobs/view/4467293311/) — Justworks
+### [Software Engineer](https://www.linkedin.com/jobs/view/4475112192/) — Stott and May
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200K - $250K
+- 🕒 **Posted:** 2026-10-06
+
+### [2027 Entry-Level — Software Developer, AI & Marketing Platforms](https://www.linkedin.com/jobs/view/4474405440/) — IBM
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $75,600.00/yr - $151,200.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Staff Software Engineer, Discovery Platform](https://www.linkedin.com/jobs/view/4475109294/) — Whatnot
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $188,000.00 to $242,000.00 per year
+- 💰 **Salary:** $230,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer - AI (Materia AI)](https://www.linkedin.com/jobs/view/4326396170/) — Thomson Reuters
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4475111241/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $175,000 to $290,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4476373443/) — Asseta
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $127,000 USD - $235,000 USD
+- 💰 **Salary:** $200,000–$350,000
 - 🕒 **Posted:** 2026-10-06
 
-### [Staff Software Engineer, Backend (Capacity Modeling)](https://www.linkedin.com/jobs/view/4410883128/) — Affirm
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476368626/) — Asseta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000–$225,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer - Capital Markets](https://www.linkedin.com/jobs/view/4476365967/) — NTT DATA North America
+- 📍 **Location:** North Carolina, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4474996942/) — Pearson
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $80,000 - $90,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer, RCM Core](https://www.linkedin.com/jobs/view/4455433589/) — Commure
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180K - $230K
+- 🕒 **Posted:** 2026-10-06
+
+### [Staff Software Engineer, Accounts & Ledgering](https://www.linkedin.com/jobs/view/4443015262/) — Commure
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $210,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4475111322/) — Pearson
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $80,000 - $90,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4475118138/) — Pearson
 - 📍 **Location:** Washington, DC
+- 💰 **Salary:** $80,000 - $90,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4475125045/) — Travel + Leisure Co.
+- 📍 **Location:** Florida, United States
 - 🕒 **Posted:** 2026-10-06
