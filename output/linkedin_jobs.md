@@ -1,48 +1,38 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-06 02:35 UTC*
+*Last updated: 2026-10-06 09:30 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Software Engineer-Loan Syndication and Sales & Trading](https://www.linkedin.com/jobs/view/4475071260/) — Truist
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4438014866/) — Brooksource
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $155,300-$170,800
+- 💰 **Salary:** $65 - $80 per hour
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, Voice AI](https://www.linkedin.com/jobs/view/4476126477/) — Cloaked
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Full Stack Engineer (.NET) - 235357](https://www.linkedin.com/jobs/view/4462528947/) — Medix Technology
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $55.00/yr - $59.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer - NBA](https://www.linkedin.com/jobs/view/4473698293/) — Humana
-- 📍 **Location:** Kentucky, United States
-- 💰 **Salary:** $106,900.00/yr - $147,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4474655614/) — Pearson
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $125,000 - $150,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer, Agents](https://www.linkedin.com/jobs/view/4474007286/) — Nominal
+### [Staff Software Engineer (Backend) - Everand Core](https://www.linkedin.com/jobs/view/4438938717/) — Scribd, Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer, Privacy](https://www.linkedin.com/jobs/view/4476121374/) — Paramount
+### [Software Engineer, Backend (All Teams)](https://www.linkedin.com/jobs/view/4409213815/) — DoorDash
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $124,000.00 - 186,000.00
+- 💰 **Salary:** $130,600—$192,000 USD
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer - NBA](https://www.linkedin.com/jobs/view/4473693459/) — Humana
-- 📍 **Location:** Colorado, United States
-- 💰 **Salary:** $106,900.00/yr - $147,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Staff Software Engineer, Link Consumer Preference](https://www.linkedin.com/jobs/view/4476126594/) — Stripe
+### [Full Stack Software Engineer – Data & AI Systems](https://www.linkedin.com/jobs/view/4476170124/) — Henderson Scott
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $224,000 - $336,000
+- 💰 **Salary:** $200,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [AI Native - Full Stack Engineer](https://www.linkedin.com/jobs/view/4467413917/) — Salesforce
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $197,300 - $313,700 annually
+- 🕒 **Posted:** 2026-10-06
+
+### [Founding / Staff Software Engineer](https://www.linkedin.com/jobs/view/4474050269/) — Ensemble Partners
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $350,000.00/yr - $500,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer III (Full Stack Java)](https://www.linkedin.com/jobs/view/4476165280/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-10-06
