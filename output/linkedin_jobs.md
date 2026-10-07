@@ -1,97 +1,47 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-06 20:36 UTC*
+*Last updated: 2026-10-07 00:15 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4474402008/) — WinIt
+### [Software Engineer - Platform Observability and Intelligence](https://www.linkedin.com/jobs/view/4476518131/) — Fastly
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $155,370 to $186,444
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Nova Product](https://www.linkedin.com/jobs/view/4389099654/) — AngelList
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Sr Backend Engineer](https://www.linkedin.com/jobs/view/4475108543/) — Jobs Web3
+### [Full Stack Software Engineer - Secret](https://www.linkedin.com/jobs/view/4476501659/) — Parsons Corporation
+- 📍 **Location:** Virginia, United States
+- 💰 **Salary:** $103,500.00 - $181,100.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer, Payments](https://www.linkedin.com/jobs/view/4389207486/) — AngelList
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4476358702/) — Pro Integrate
+### [Senior Software Engineer - CSP Voice Platform](https://www.linkedin.com/jobs/view/4474423147/) — Bloomberg
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4475118026/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $160,000 to $275,000
+### [Full Stack Software Engineer - Secret](https://www.linkedin.com/jobs/view/4476502493/) — Parsons Corporation
+- 📍 **Location:** Virginia, United States
+- 💰 **Salary:** $103,500.00 - $181,100.00
 - 🕒 **Posted:** 2026-10-06
 
-### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4476366696/) — Encord
+### [Senior Software Engineer - Customer Distribution Infrastructure](https://www.linkedin.com/jobs/view/4474414535/) — Bloomberg
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Full Stack Engineer - Agentic AI Data Migration (Recent Series A, On-site NYC)](https://www.linkedin.com/jobs/view/4475113299/) — Zearch
-- 📍 **Location:** New York City Metropolitan Area
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4475140330/) — Insight Global
+- 📍 **Location:** Kansas City Metropolitan Area
+- 💰 **Salary:** $160,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4476382050/) — Numeral
+### [Sr. Software Engineer, Data Analytics Engineering](https://www.linkedin.com/jobs/view/4476399845/) — Pinterest
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475112192/) — Stott and May
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200K - $250K
-- 🕒 **Posted:** 2026-10-06
-
-### [2027 Entry-Level — Software Developer, AI & Marketing Platforms](https://www.linkedin.com/jobs/view/4474405440/) — IBM
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $75,600.00/yr - $151,200.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Staff Software Engineer, Discovery Platform](https://www.linkedin.com/jobs/view/4475109294/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4475111241/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $175,000 to $290,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4476373443/) — Asseta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000–$350,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4476368626/) — Asseta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000–$225,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer - Capital Markets](https://www.linkedin.com/jobs/view/4476365967/) — NTT DATA North America
-- 📍 **Location:** North Carolina, United States
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4474996942/) — Pearson
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $80,000 - $90,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer, RCM Core](https://www.linkedin.com/jobs/view/4455433589/) — Commure
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180K - $230K
-- 🕒 **Posted:** 2026-10-06
-
-### [Staff Software Engineer, Accounts & Ledgering](https://www.linkedin.com/jobs/view/4443015262/) — Commure
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $210,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4475111322/) — Pearson
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $80,000 - $90,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4475118138/) — Pearson
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $80,000 - $90,000
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4475125045/) — Travel + Leisure Co.
-- 📍 **Location:** Florida, United States
+- 💰 **Salary:** $183,040—$320,320 USD
 - 🕒 **Posted:** 2026-10-06
