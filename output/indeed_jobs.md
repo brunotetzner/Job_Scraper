@@ -1,168 +1,190 @@
 # 🟦 Indeed — Back-end Developer Roles
-*Last updated: 2026-10-07 20:55 UTC*
+*Last updated: 2026-10-08 01:22 UTC*
 
-**27 new role(s)** since last run · 29 total in last 24h
+**28 new role(s)** since last run · 49 total in last 24h
 
-### [Desenvolvedor Full Stack java - Junior](https://br.indeed.com/viewjob?jk=5f1e6662ec9919c2) — FCamara
+### [Desenvolvedor Back-end Pleno - Integrações](https://br.indeed.com/viewjob?jk=bba5709bc6d49bac) — Housi
 - 📍 **Location:** Remoto, BR
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-07
 
-### [Desenvolvedor Full Stack java - Sênior](https://br.indeed.com/viewjob?jk=4056ae164589067b) — FCamara
+### [Desenvolvedor Fullstack Senior](https://br.indeed.com/viewjob?jk=d2f7cb85f9859abc) — Digisystem
 - 📍 **Location:** Remoto, BR
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-07
 
-### [Pessoa Desenvolvedora Fullstack Go/Node.js - Pleno](https://br.indeed.com/viewjob?jk=1d4694914ba86f52) — MPLAN
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Back end Developer [java]](https://br.indeed.com/viewjob?jk=3df4f05effc907d7) — Dentsu World Services Brazil
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [PESSOA ESPECIALISTA DESENVOLVEDORA BACKEND](https://br.indeed.com/viewjob?jk=e4d0ad09226750af) — YDUQS
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Desenvolvedor Backend](https://br.indeed.com/viewjob?jk=fa522b6a21bef840) — FCamara
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Desenvolvedor Backend](https://br.indeed.com/viewjob?jk=c39ac58ebc7cb405) — FCamara
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Developer](https://br.indeed.com/viewjob?jk=d9f1e20347b0d224) — MUNDIALE
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Pessoa Desenvolvedora FullStack Java/React Pl (Remoto) - 2893](https://br.indeed.com/viewjob?jk=5dbd6a368bb6530f) — Starian
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Pessoa Desenvolvedora backend Java Pl (Remoto) - 2394](https://br.indeed.com/viewjob?jk=9aaebb08c2ec5a4f) — Starian
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Desenvolvedor Full Stack java - Sênior](https://br.indeed.com/viewjob?jk=e6750bac4ebd326f) — FCamara
-- 📍 **Location:** Remoto, BR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=80ac2a98b1400be6) — Evolent
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $115k–$145k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Backend Software Engineer II- Data Platform](https://www.indeed.com/viewjob?jk=e85fcac71678e453) — Vida Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $120k–$130k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Software Engineer, Interoperability](https://www.indeed.com/viewjob?jk=f685325d98439c8b) — Counterpart Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $169k–$220k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-07
-
-### [Backend Engineer](https://www.indeed.com/viewjob?jk=48dccb222133a224) — Coralogix
+### [Full-Stack Developer](https://www.indeed.com/viewjob?jk=f1da5fec973c12f5) — Majorkey Technologies
 - 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=2c1134e4c93c079e) — Alteryx
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=ac672f849af1d36e) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $105k–$140k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Senior .NET Full Stack Developer](https://www.indeed.com/viewjob?jk=0fd77b9e02bdd782) — BV Teck
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=9d1b2d816a6ca233) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $78k–$100k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer III](https://www.indeed.com/viewjob?jk=9cf6cb804310788f) — Pearson
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=c09e13d66115a317) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $80k–$90k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Staff Software Engineer - Backend](https://www.indeed.com/viewjob?jk=9b5c51130b6847b0) — Veritone
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=96286229bd44066c) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $185k–$200k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=118c7b3c97966540) — By Light Professional IT Services
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=50dd44827e224c61) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $120k–$200k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=21ea54fc4268ebf8) — By Light Professional IT Services
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=432fdda2c7d50368) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $120k–$200k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Software Developer III for Information Services](https://www.indeed.com/viewjob?jk=d0674085aacebcbf) — Liberty University
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=cef449029153e5ee) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $95k–$115k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [React Software Engineer](https://www.indeed.com/viewjob?jk=b16dadef27776fd3) — GovCIO
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=d5b39825886a8830) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $90k–$105k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
+- 🕒 **Posted:** 2026-10-07
 
-### [Senior Software Engineer (Remote)](https://www.indeed.com/viewjob?jk=69d0e74639ad2f6a) — GovCIO
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=18f8325b23372ca8) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $195k–$225k/yr
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-10-07
 
-### [Principal Software Engineer - Partner Services](https://www.indeed.com/viewjob?jk=15c036b22da0fc4f) — Priority Technology Holdings, LLC
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=20341dbdcd09e940) — NinjaOne
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $191k–$249k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-15
-
-### [Principal Software Engineer - Billing](https://www.indeed.com/viewjob?jk=d5b657d6aa87b5cd) — Priority Technology Holdings, LLC
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $191k–$249k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-15
-
-### [Full Stack Developer](https://de.indeed.com/viewjob?jk=f7ffbcf4662f702f) — Unknown
-- 📍 **Location:** Home Office, DE
+- 💰 **Salary:** $160k–$210k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=bba060fae6ed45f9) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=615c646c36d42ab7) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=f2eb7dbb038b6da6) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=5a4c0f986dd66675) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=78825be4e61efdff) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=dc8de3e228f2b53d) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=1e7839663c836df6) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Software Engineer, Java- Site Reliability](https://www.indeed.com/viewjob?jk=d04b46b15f34a1be) — NinjaOne
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=ab5235b5ec0e74c5) — Indeed
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $100k–$210k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Full Stack Developer — Global Health & AI (REMOTE ROLE)](https://www.indeed.com/viewjob?jk=c4aba9a4812914d4) — ICF
+- 📍 **Location:** Rockville, MD, US
+- 💰 **Salary:** $81k–$139k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Backend Software Engineer](https://ca.indeed.com/viewjob?jk=080b9b82ea96186b) — Megaport
+- 📍 **Location:** Remote, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Staff Software Engineer, Core Everand](https://ca.indeed.com/viewjob?jk=a7422853556a80db) — Scribd, Inc.
+- 📍 **Location:** Vancouver, BC, CA
+- 💰 **Salary:** $141k–$255k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior AWS Integration Developer - Remote](https://ca.indeed.com/viewjob?jk=01795a356973210e) — NTT DATA
+- 📍 **Location:** Halifax, NS, CA
+- 💰 **Salary:** $92k–$171k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer](https://ca.indeed.com/viewjob?jk=6bc748c02bb29f55) — Scotiabank
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Backend Engineer](https://ca.indeed.com/viewjob?jk=2e6b26d11db49619) — Capgemini Engineering
+- 📍 **Location:** Toronto, ON, CA
+- 💰 **Salary:** $72k–$139k/yr
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-07
