@@ -1,70 +1,35 @@
 # 🔥 LinkedIn — Back-end Developer Roles
-*Last updated: 2026-10-08 21:38 UTC*
+*Last updated: 2026-10-09 01:30 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4474839963/) — Citian
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer, Web3 Backend](https://www.linkedin.com/jobs/view/4475993806/) — Jobs Web3
+### [Backend Software Engineer, TypeScript / Node.js](https://www.linkedin.com/jobs/view/4474868215/) — Jobot
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $196,000—$230,000 USD
-- 🕒 **Posted:** 2026-10-08
+- 💰 **Salary:** $185,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-10-09
 
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4477454638/) — International Rescue Committee
+### [Senior Software Engineer - AI & Cloud Platforms](https://www.linkedin.com/jobs/view/4477490750/) — CVS Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $88,277 - $102,451/annual
-- 🕒 **Posted:** 2026-10-08
+- 💰 **Salary:** $111,240.00 - $222,480.00
+- 🕒 **Posted:** 2026-10-09
 
-### [Software Engineer | Early Careers, 2027 Start](https://www.linkedin.com/jobs/view/4474840946/) — Arch
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
+### [Full Stack Developer 3](https://www.linkedin.com/jobs/view/4466571413/) — OPERS
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
+- 🕒 **Posted:** 2026-10-09
 
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4477465373/) — Mirage
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-08
+### [Senior Backend Developer](https://www.linkedin.com/jobs/view/4477612113/) — KIProtect
+- 📍 **Location:** Indiana, United States
+- 🕒 **Posted:** 2026-10-09
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4477451818/) — IDR, Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $60-$70/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Backend Engineer, Blockchain - Vice President](https://www.linkedin.com/jobs/view/4476208203/) — Jobs Web3
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000 to $200,000
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Full Stack Engineer (Node.js / TypeScript) - Hybrid](https://www.linkedin.com/jobs/view/4474861073/) — CyberCoders
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Python Backend Developer - Onsite](https://www.linkedin.com/jobs/view/4475996626/) — Cognizant
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $80,000 to $118,000
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4477471075/) — ASRC Federal
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-08
-
-### [Sr Software Engineer, Build and Release Management](https://www.linkedin.com/jobs/view/4477471246/) — Cboe Global Markets
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $110,500-$143,000,
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Associate, Tax Ignition - Software Engineer](https://www.linkedin.com/jobs/view/4476206583/) — KPMG US
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Java Full Stack Developer](https://www.linkedin.com/jobs/view/4477467639/) — Arkhya Tech Inc.
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $60.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474849145/) — AppCard, Inc.
+### [Java Fullstack Developer with Python](https://www.linkedin.com/jobs/view/4477475905/) — Capgemini
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $225,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-10-08
+- 💰 **Salary:** $61087 - $104364
+- 🕒 **Posted:** 2026-10-09
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4477618093/) — InHouse
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
+
+### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4477604544/) — InHouse
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
